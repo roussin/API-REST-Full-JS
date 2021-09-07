@@ -12,3 +12,6 @@ Création d'une API Rest Full avec [Node.js]("https://nodejs.org/en/") / [Expres
 
 ## Babel pour pouvoir utiliser ES6
 `npm install --sav-dev babel-cli babel-preset-env`
+
+# Scripter le départ de notre serveur
+`npm --save nodemon body-parser`
