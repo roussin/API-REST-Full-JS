@@ -1,0 +1,28 @@
+{
+  "name": "api-rest-full-js",
+  "version": "1.0.0",
+  "description": "Création d'une API Rest Full avec Node.js - Express - Babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roussin/API-REST-Full-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roussin/API-REST-Full-JS/issues"
+  },
+  "homepage": "https://github.com/roussin/API-REST-Full-JS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.1.1",
+    "mongoose": "^6.0.5"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
