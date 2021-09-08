@@ -18,6 +18,7 @@ app.use(bodyParser.json());
 
 routes(app);
 
+// accéder au dossier public avec des fichiers statiques
 app.use(express.static('public'));
 
 app.get('/', (req, res) => 
